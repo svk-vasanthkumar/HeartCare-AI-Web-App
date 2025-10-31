@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(to right, #89f7fe, #66a6ff);
+  min-height: 100vh;
+}
+.card {
+  border-radius: 15px;
+}
+select, input {
+  transition: 0.2s;
+}
+select:hover, input:hover {
+  border-color: #4CAF50;
+}
+.btn-success {
+  background: linear-gradient(90deg, #4CAF50, #2E8B57);
+  border: none;
+}
+.btn-success:hover {
+  background: linear-gradient(90deg, #2E8B57, #4CAF50);
+}
