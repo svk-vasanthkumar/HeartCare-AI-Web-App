@@ -24,21 +24,9 @@ Open in your browser at 👉 http://127.0.0.1:5000/
 
 🌍 Deployment
 Hosted on Render.
-Live Demo: https://heartcare-ai.onrender.com 
+Live Demo: https://heartcare-ai-web-app.onrender.com/
 
-📁 Project Structure
-cpp
-Copy code
-HeartCare-AI-Web-App/
-│
-├── app.py
-├── model.pkl
-├── requirements.txt
-├── templates/
-│   └── index.html
-└── static/
-    ├── style.css
-    
 👨‍💻 Author
-Vasanth Kumar S V K
+Vasanthkumar S V K
 GitHub: svk-vasanthkumar
+
