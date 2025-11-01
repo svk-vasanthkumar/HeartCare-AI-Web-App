@@ -1,84 +1,44 @@
-🩺 Disease Prediction Web Application
-📘 Description
+# 🩺 HeartCare AI – Disease Prediction Web App
 
-A simple and interactive Machine Learning web app that predicts whether a person has heart disease based on medical details such as age, cholesterol, blood pressure, and other health indicators.
-Built using Flask, HTML, CSS, and JavaScript, this project demonstrates the use of ML models in healthcare prediction.
+A simple **machine learning + Flask** web application that predicts heart disease based on user medical details.
 
-🚀 Features
+## 🚀 Features
+- User-friendly and responsive web interface  
+- 13 medical input fields (age, sex, cholesterol, etc.)  
+- Real-time disease prediction using a trained ML model  
+- Works on both desktop and mobile devices  
+- Deployed on Render  
 
-✅ User-friendly and responsive web interface (mobile + desktop)
-✅ Takes 13 medical input parameters
-✅ Predicts “Healthy” or “Disease Detected” instantly
-✅ Built with Flask backend and ML model integration
-✅ Real-time prediction with trained .pkl model
+## 🧠 Tech Stack
+- **Backend:** Python, Flask  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Machine Learning:** scikit-learn, pandas, numpy  
+- **Model:** Logistic Regression  
 
-🧠 Tech Stack
-
-Frontend: HTML, CSS, JavaScript, Bootstrap
-
-Backend: Flask (Python)
-
-Machine Learning: Scikit-learn, Pandas, Numpy, XGBoost
-
-Model File: model.pkl
-
-⚙️ Installation & Setup
-
-1️⃣ Clone the repository
-
-git clone https://github.com/your-username/disease-prediction.git
-cd disease-prediction
-
-
-2️⃣ Install dependencies
-
+## ⚙️ How to Run Locally
+git clone https://github.com/your-username/HeartCare-AI-Web-App.git
+cd HeartCare-AI-Web-App
 pip install -r requirements.txt
-
-
-3️⃣ Run the Flask app
-
 python app.py
+Open in your browser at 👉 http://127.0.0.1:5000/
 
+🌍 Deployment
+Hosted on Render.
+Live Demo: https://heartcare-ai.onrender.com 
 
-4️⃣ Open in browser
-
-http://127.0.0.1:5000/
-
-🧾 Input Fields
-
-Age
-
-Sex
-
-Chest Pain Type
-
-Resting Blood Pressure
-
-Cholesterol
-
-Fasting Blood Sugar
-
-Rest ECG
-
-Max Heart Rate
-
-Exercise Angina
-
-Oldpeak
-
-Slope
-
-CA (Major Vessels)
-
-Thal
-
-🧩 Output
-
-Healthy 💚 → No heart disease detected
-
-Disease 🩸 → Possible heart disease risk
-
-👨‍💻 Developer
-
-Developed by VASANTHKUMAR S (SVK)
-✨ Machine Learning | Web Development Enthusiast
+📁 Project Structure
+cpp
+Copy code
+HeartCare-AI-Web-App/
+│
+├── app.py
+├── model.pkl
+├── requirements.txt
+├── templates/
+│   └── index.html
+└── static/
+    ├── style.css
+    
+👨‍💻 Author
+Vasanth Kumar S V K
+GitHub: svk-vasanthkumar
