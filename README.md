@@ -1,32 +1,33 @@
-# 🩺 HeartCare AI – Disease Prediction Web App
+# 🩺 HeartCare AI – Disease Prediction Web App <br>
 
-A simple **machine learning + Flask** web application that predicts heart disease based on user medical details.
+A simple **machine learning + Flask** web application that predicts heart disease based on user medical details. <br>
 
-## 🚀 Features
-- User-friendly and responsive web interface  
-- 13 medical input fields (age, sex, cholesterol, etc.)  
-- Real-time disease prediction using a trained ML model  
-- Works on both desktop and mobile devices  
-- Deployed on Render  
+## 🚀 Features <br>
+- User-friendly and responsive web interface  <br>
+- 13 medical input fields (age, sex, cholesterol, etc.)  <br>
+- Real-time disease prediction using a trained ML model  <br>
+- Works on both desktop and mobile devices  <br>
+- Deployed on Render  <br>
 
-## 🧠 Tech Stack
-- **Backend:** Python, Flask  
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
-- **Machine Learning:** scikit-learn, pandas, numpy  
-- **Model:** Logistic Regression  
+## 🧠 Tech Stack<br>
+- **Backend:** Python, Flask  <br>
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  <br>
+- **Machine Learning:** scikit-learn, pandas, numpy <br> 
+- **Model:** Logistic Regression  <br>
 
-## ⚙️ How to Run Locally
-git clone https://github.com/your-username/HeartCare-AI-Web-App.git
-cd HeartCare-AI-Web-App
-pip install -r requirements.txt
-python app.py
-Open in your browser at 👉 http://127.0.0.1:5000/
+## ⚙️ How to Run Locally<br>
+git clone https://github.com/your-username/HeartCare-AI-Web-App.git<br>
+cd HeartCare-AI-Web-App<br>
+pip install -r requirements.txt<br>
+python app.py <br>
+Open in your browser at 👉 http://127.0.0.1:5000/ <br>
 
-🌍 Deployment
-Hosted on Render.
-Live Demo: https://heartcare-ai-web-app.onrender.com/
+🌍 Deployment <br>
+Hosted on Render.<br>
+Live Demo: https://heartcare-ai-web-app.onrender.com/ <br>
 
-👨‍💻 Author
-Vasanthkumar S V K
-GitHub: svk-vasanthkumar
+👨‍💻 Author <br>
+Vasanthkumar S V K  <br>
+GitHub: svk-vasanthkumar <br>
+
 
