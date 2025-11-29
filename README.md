@@ -9,7 +9,7 @@ A simple **machine learning + Flask** web application that predicts heart diseas
 - Works on both desktop and mobile devices  <br>
 - Deployed on Render  <br>
 
-## 🧠 Tech Stack<br>
+## 🧠 Tech Stack <br>
 - **Backend:** Python, Flask  <br>
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  <br>
 - **Machine Learning:** scikit-learn, pandas, numpy <br> 
@@ -29,5 +29,6 @@ Live Demo: https://heartcare-ai-web-app.onrender.com/ <br>
 👨‍💻 Author <br>
 Vasanthkumar S V K  <br>
 GitHub: svk-vasanthkumar <br>
+
 
 
